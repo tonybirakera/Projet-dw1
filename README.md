@@ -25,4 +25,12 @@ Ce projet marque le début de mon parcours en développement web.
 Je continue à approfondir mes compétences en programmation et à développer de nouveaux projets.
 Ce projet démontre également ma capacité à transformer des concepts théorique en réalisation concrète.
 
+# Aperçu
+
+<img width="1920" height="1080" alt="2G8X3mifaH" src="https://github.com/user-attachments/assets/0568239c-7e32-4e16-a2a4-72f102cc0d0c" />
+<img width="1920" height="1080" alt="chrome_mohdm9OJL1" src="https://github.com/user-attachments/assets/5cf77a00-883e-4532-af9c-162cda87377f" />
+<img width="1920" height="1080" alt="chrome_fOElop4LPU" src="https://github.com/user-attachments/assets/e3fe2241-02f1-4fd0-bb5d-d73d474d5591" />
+<img width="1920" height="1080" alt="chrome_9JSiWnmHTr" src="https://github.com/user-attachments/assets/e2990f3c-36bf-4a2d-9728-729999b125bc" />
+
+
 # Développé dans le cadre de ma formation en programmation analyste. #
